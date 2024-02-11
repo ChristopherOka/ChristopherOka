@@ -6,7 +6,7 @@ My name's Chris! I'm doing freelance work right now, building sites for creative
 
 Check out the sites I've built!
 
-![Creature World](https://github.com/ChristopherOka/ChristopherOka/assets/70914858/e7568540-9a2b-41f9-9c72-66b9138ba5e6)
+![Creature World](https://github.com/ChristopherOka/ChristopherOka/assets/70914858/a8e32102-c3fd-4816-baab-e60357285427)
 ![Byline](https://github.com/ChristopherOka/ChristopherOka/assets/70914858/467cbc0a-e2a6-4daf-86fd-26373fbfc5d6)
 
 <!-- [Internet Art Club](https://internetartclub.com) -->
