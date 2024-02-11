@@ -1,4 +1,4 @@
-### Yo. 😎
+# Yo. 😎
 
 My name's Chris! I'm doing freelance work right now, building sites for creatives.
 
