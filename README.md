@@ -1,10 +1,10 @@
 # Yo. 😎
 
-My name's Chris! I'm doing freelance work right now, building sites for creatives.
+### My name's Chris! I'm doing freelance work right now, building sites for creatives.
 
 ---
 
-Check out the sites I've built!
+### Check out the sites I've built!
 
 [![Creature World](https://github.com/ChristopherOka/ChristopherOka/assets/70914858/a8e32102-c3fd-4816-baab-e60357285427)](https://creature.world) 
 
@@ -14,6 +14,6 @@ Check out the sites I've built!
 
 ---
 
-Or check me out on LinkedIn ⬇️
+### Or check me out on LinkedIn ⬇️
 
 [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/christopher-oka/)
