@@ -16,4 +16,4 @@
 
 ### Or check me out on LinkedIn ⬇️
 
-[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/christopher-oka/)
+[![linkedin](https://github.com/ChristopherOka/ChristopherOka/assets/70914858/f533c4d7-fa18-4a46-b3a7-88f7fdb9d916)](https://www.linkedin.com/in/christopher-oka/)
