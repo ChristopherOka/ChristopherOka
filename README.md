@@ -1,6 +1,7 @@
 # Yo. 😎
 
-### My name's Chris - I'm doing freelance work right now, building sites for creatives.
+### My name's Chris - I like making websites. 
+I'm currently doing freelance work, building sites for creatives.
 
 ---
 
