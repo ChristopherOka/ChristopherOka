@@ -7,6 +7,8 @@ I'm currently doing freelance work, building sites for creatives.
 
 ### Check out the sites I've built ⬇️
 
+[![Words Like Silver](https://github.com/user-attachments/assets/b30162d0-2932-450b-b6ef-ac18f27f5edf)](https://www.wordslikesilver.com)
+
 [![Internet Art Club](https://github.com/ChristopherOka/ChristopherOka/assets/70914858/8fa9a70f-6e1d-469e-899b-a8c26fe01699)](https://www.internetartclub.com)
 
 [![Byline](https://github.com/ChristopherOka/ChristopherOka/assets/70914858/01b36afc-29ad-4166-bd74-8f18a4f73a51)](https://www.bylinebyline.com)
