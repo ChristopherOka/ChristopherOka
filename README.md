@@ -7,14 +7,13 @@ I'm currently doing freelance work, building sites for creatives.
 
 ### Check out the sites I've built ⬇️
 
-[![wygo](https://github.com/user-attachments/assets/83b14cae-89c5-498b-a8df-e5c5d65e913d)](https://wygo.world)
-[![Byline](https://github.com/user-attachments/assets/257b434e-8be1-4100-9f2f-207cdd970c2a)](https://www.bylinebyline.com)
-[![Words Like Silver](https://github.com/user-attachments/assets/7a160422-0f0e-43b8-852c-9595c0e9d09b)
-[![Internet Art Club](https://github.com/user-attachments/assets/c8ca2dab-3d42-40c4-aef9-177fd6f89295)](https://www.internetartclub.com)
-[![Creature World](https://github.com/user-attachments/assets/86926cd2-e1bf-4c19-83a5-316ccc29ee4f)](https://creature.world) 
-[![Portfolio Website](https://github.com/user-attachments/assets/6bcf9d65-5cd1-4b83-a818-69c153cd4bca)](https://www.christopheroka.com)
-
+[![wygo](https://github.com/user-attachments/assets/353fb82b-d28a-452b-8ca4-f5e0324846d9)](https://wygo.world)
+[![byline](https://github.com/user-attachments/assets/9f1e5add-1fc3-4dae-a721-c3639f401079)](https://www.bylinebyline.com)
+[![wordslikesilver](https://github.com/user-attachments/assets/de816229-dfdc-4dfb-9cd6-2df0f5df6bb7)](https://www.wordslikesilver.com)
+[![internet art club](https://github.com/user-attachments/assets/c66dcd9b-5ac2-491d-9620-e5070704f200)](https://www.internetartclub.com)
+[![creature world](https://github.com/user-attachments/assets/cbd35c5b-84bc-4edf-86bb-cfc327f79973)](https://creature.world)
+[![portfolio website](https://github.com/user-attachments/assets/f74a3e98-c448-4946-8c2c-c6df99abc2df)](https://www.christopheroka.com)
 
 ### Or check out my LinkedIn ⬇️
 
-[![linkedin](https://github.com/user-attachments/assets/266e5b8d-2ef8-4bd5-90dd-44d305b68c32)
+[![linkedin](https://github.com/user-attachments/assets/1ec63c1b-ed22-4bc9-861b-8e3741cf7d9a)](https://www.linkedin.com/in/christopher-oka/)
