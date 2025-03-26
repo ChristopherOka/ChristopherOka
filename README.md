@@ -1,7 +1,7 @@
 # Yo. 😎
 
 ### My name's Chris — I like making cool stuff. 
-I'm currently building [wygo](https://wygo.world), a platform for event hosts.
+I'm currently building [wygo](https://wygo.world), an accelerator for event hosts.
 
 ---
 
